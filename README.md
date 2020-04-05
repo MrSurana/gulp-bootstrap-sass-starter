@@ -6,7 +6,9 @@ A simple starter kit built with Gulp, SASS, and Bootstrap
 
 ## How to Run
 1. Run `npm install` or `yarn install` to install dependencies
-1. Run `npm start` to serve the files
+2. Run `npm start` to serve the files
+
+All the deployment files are located in `public/` folder.
 
 ## Tools used
 
@@ -15,8 +17,6 @@ A simple starter kit built with Gulp, SASS, and Bootstrap
 * Gulp SASS
 * Bootstrap
 
-
-All the deployment files are located in `public/` folder.
 
 ## TODO'S
 
